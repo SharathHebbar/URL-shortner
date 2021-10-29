@@ -1,2 +1,3 @@
-# URL shortner
- URL Shortner
+# URL shortner using Django
+ 
+https://shortenurlsbyssh.herokuapp.com/
